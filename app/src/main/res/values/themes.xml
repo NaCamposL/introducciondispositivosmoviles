@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base de la Activity. El theming real (colores claro/oscuro)
+         se aplica en Compose mediante RegistroEmpleadosTheme (Theme.kt),
+         siguiendo la paleta generada con Material Design Theme Builder. -->
+    <style name="Theme.RegistroEmpleados" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
